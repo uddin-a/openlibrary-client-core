@@ -26,8 +26,12 @@ export class OpenlibraryClient {
   }
 
   public getByOpenLibraryId(olid: string) {
+    console.log("olid : ", olid);
     // TODO
   }
 
-  public search(searchOpt: SearchOptions) {}
+  public search(searchOpt: SearchOptions) {
+    console.log("options: ", this.options);
+    console.log("search options : ", searchOpt);
+  }
 }

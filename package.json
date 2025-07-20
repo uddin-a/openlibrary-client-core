@@ -1,5 +1,5 @@
 {
-  "name": "openlibrary-client/core",
+  "name": "openlibrary-client-core",
   "description": "An unofficial Open Library API client for JavaScript / TypeScript projects",
   "version": "0.0.1",
   "main": "./dist/index.js",
