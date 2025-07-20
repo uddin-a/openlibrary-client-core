@@ -1,0 +1,68 @@
+{
+  "name": "openlibrary-client/core",
+  "description": "An unofficial Open Library API client for JavaScript / TypeScript projects",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/uddin-a/openlibrary-client-core",
+  "bugs": {
+    "url": "https://github.com/uddin-a/openlibrary-client-core/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uddin-a/openlibrary-client-core.git"
+  },
+  "scripts": {
+    "build": "tsup",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint . --ext .ts",
+    "clean": "rm -rf dist node_modules"
+  },
+  "keywords": [
+    "openlibrary.org",
+    "api",
+    "open library",
+    "open-library",
+    "openlibrary",
+    "open library api",
+    "open library api client",
+    "openlibrary-api",
+    "open-library-api",
+    "client",
+    "api-client",
+    "open-library-client",
+    "open-library-client-js",
+    "open-library-api-client",
+    "open-library-api-client-js",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Abdus UDDIN <abdus.uddin@protonmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.37.0",
+    "@typescript-eslint/parser": "^8.37.0",
+    "eslint": "^9.31.0",
+    "jest": "^30.0.4",
+    "ts-jest": "^29.4.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  }
+}
