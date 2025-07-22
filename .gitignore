@@ -2,3 +2,4 @@
 /dist
 .env
 .DS_Store
+.codedoc/node_modules
