@@ -2,120 +2,120 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "GwjmX0+3wX5Gaovr8iLAxA=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "Rvt5/YRprjcBeNW7k8bP7A=="
     },
     {
       "name": "installTheme",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/content/theme.ts",
-      "hash": "ny0CHeXYHBoCPqDrpcSkOA=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/content/theme.ts",
+      "hash": "EAqyyN2qBYajMgPPsH0KVA=="
     },
     {
       "name": "codeSelection",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "zy3yT8Dcs/XSUKoEj5NnBg=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "J+vbuO5czrwofNMj0fAC+A=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "b/pSVT5ZA0+hogMO2J5ZSQ=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "dHbLURUsT570WAVNVLLHsg=="
     },
     {
       "name": "initHintBox",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "6ytpv49vCm/WkwQpywPg9Q=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "xSoL+HVDxw2Qm+SbQCnH+w=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "ZNHiJyNtgEQZPL/A3UiKoA=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "OXZ+KjcKHiLncUXy7wuCYw=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "VufFCRH2/DXeYPhzpz1OBg=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "j9RejeQlMlzD0GZRyAqHHw=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "tXuxkMPPuXnu4vDyTHG1OQ=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "HMWXP5VyNYf6cNUwOYvLkQ=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "QOxPMguwxTzTFlO0ZiiqKg=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "YKspxI4wkFSeclnFENI0Ow=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "WmBvVO707SCXqwQTvWeAvg=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "rfgVq13EBkxATXafeKvJCw=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "i0QiIMIVp4sWHXJgTpm1EA=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "JyuZAcLP4hH56SF50ntYeA=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "qATYTjS4ov7l4JV2OD+gOw=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "BeJVHZjh1qlDPhPEk1XkMA=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "PWUYGKYwzDpNjQviFzmVsw=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "fsUkMu6cGS1ScwuUx5b8ng=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
-      "hash": "8qvIeAbYgWhyREVSQu8ndw=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "TZhSsNC1VQc0JOBEcO6X5A=="
     },
     {
       "name": "gatherFootnotes",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
-      "hash": "JS8pzl/zwGL5af+xF6/R5w=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "jCsmw4dli9nsRRo8pLkwEg=="
     },
     {
       "name": "reloadOnChange",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "O/bH/HlnC9hFF2RLlNK0uA=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
+      "hash": "BtQmXQZLL2whgHUHzxM/gQ=="
     }
   ],
   "components": [
     {
       "name": "ToCPrevNext",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "r3kLqRhzPKhL2GKuyFCcFw=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "YRHpVJPmk/dwELEvEI2L3Q=="
     },
     {
       "name": "CollapseControl",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "9A9wF9AOSZ0/wXtgtfeEWg=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "3C3+X3Nly0EM1TTFnhHJhw=="
     },
     {
       "name": "GithubSearch",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
-      "hash": "a+PF6EA0TL8M73HYEfxNAw=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "bcrTSgWrKq4yWmRq2bOanA=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "/UwUuPd0xVNanmJ8+01Oiw=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "Q4JKV8+6BuvJT9AyfpUMQA=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "8N69oRFTSDXliJGS16wvWQ=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "oT4qnYjKVOWKNWrgWeZukQ=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "0OF3GMoy9Tj+q770exHsmg=="
+      "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "4f7kZTUmxX370Q7ikSF9TA=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/home/samad/Desktop/__code__/__node__/__projects__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "Mt10nQe0BKBWLyluEhSDLg=="
+    "filename": "/home/samad/Desktop/__code__/__node__/__project__/__packages__/openlibrary-client-core/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "Q2Pauis/o6Jh4hPUtCiarQ=="
   }
 }
